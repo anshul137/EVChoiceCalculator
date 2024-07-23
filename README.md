@@ -1,6 +1,6 @@
 # EVChoiceCalculator: Electric vs Gas Car Cost Comparison
 
-### Application that enables the user to compare the costs of an electric car vs. gas car.
+### ReactNative Application that enables the user to compare the costs of an electric car vs. gas car.
 
 EVChoiceCalculator is a React Native application designed to help users compare the costs between electric cars and gas-powered vehicles. 
 With user-friendly interfaces and real-time calculations, users can make informed decisions about their vehicle choices.
